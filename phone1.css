@@ -1,0 +1,17 @@
+/*navigation bar*/
+#navbar{
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+/*text container*/
+.text-container{
+    height: 90px;
+}
+.text-container p{
+    font-size: 5px;
+}
+/*varities*/
+
+.box-container{
+    flex-direction: column;
+}
